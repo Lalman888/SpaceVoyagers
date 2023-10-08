@@ -33,7 +33,7 @@ const Video = () => {
             </div>
             <div className="p-4">
               <h3 className="text-xl font-bold mb-2">Journey to Mars</h3>
-              <p className="text-gray-600">Duration: 10:23</p>
+              <p className="text-gray-600">Duration: 10:2</p>
             </div>
           </div>
         ))}
